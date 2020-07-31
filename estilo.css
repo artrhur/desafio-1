@@ -1,0 +1,19 @@
+body { 
+    background-color: black;
+}
+
+h1 {
+    color: darkblue;
+}
+
+.C {
+    background-color: gray;
+   padding-left: 6px;
+   padding-bottom: 10px;
+   border: 10px lightblue solid;
+   margin-top: 11px;
+}
+
+#T {
+    color: white;
+}
